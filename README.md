@@ -93,9 +93,5 @@ This project is licensed under the **MIT License**. Feel free to use it, modify 
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/advay77">Advay</a>  
-</p>  
-
-<p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Thank You Animation" width="200"/>
 </p>  
