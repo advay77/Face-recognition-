@@ -1,10 +1,5 @@
 # 🎉✨ Face Recognition System ✨🎉  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Face Recognition Animation" width="400"/>
-</p>
-
----
 
 ## 🚀 **About the Project**  
 
