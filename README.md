@@ -1,8 +1,5 @@
 # 🖼️✨ Face Recognition System ✨🖼️  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Face Recognition Animation" width="400"/>
-</p>  
 
 Welcome to the **Face Recognition System** repository! This project leverages the power of **Python** 🐍 to perform face recognition and detection tasks with accuracy and speed. Whether you're diving into machine learning or exploring computer vision, this repository is a great place to start! 🚀  
 
